@@ -117,3 +117,4 @@ echo ECS_SERVICE_NAME: $ECS_SERVICE_NAME
 
 ### 6. Commit  
 * Commit and push your code and ensure travis builds and deploys correctly
+*
